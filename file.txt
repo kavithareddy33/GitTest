@@ -5,3 +5,4 @@ Hello
 Hello Kavi 
 >>>>>>> 6b3d026 (updated file content)
 ECHO is on.
+new line 
